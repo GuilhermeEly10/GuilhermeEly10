@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GuilhermeEly10
 - 👀 I’m interested em vagas para desenvolvedor.
-- 🌱 I’m currently learning  Python voltado para a área de ciência de dados.
+- 🌱 I’m currently learning Front End. HTML/CSS/JAVA SCRIPT.
 - 💞️ I’m looking to collaborate on  Projetos de Desenvolvimento.
 - 📫 How to reach me: Atráves do número:5555984080379 ou Email: guilhermesawicki@gmail.com
 
